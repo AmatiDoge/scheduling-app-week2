@@ -26,4 +26,4 @@ export const SLOTS = DAYS.flatMap(day =>
   }))
 )
 
-export const MIN_SLOTS = 3
+export const MIN_SLOTS = 4
