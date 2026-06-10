@@ -16,6 +16,7 @@ const WEEKDAY_SLOTS = [
   '14:00–15:30',
   '15:30–17:00',
   '17:00–18:30',
+  '18:30–20:00',
 ]
 
 export const SLOTS = DAYS.flatMap(day =>
